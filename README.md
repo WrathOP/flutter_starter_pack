@@ -1,4 +1,4 @@
-# million_tickbox
+# Starter kit
 
 A new Flutter project.
 
